@@ -30,3 +30,6 @@ Thumbs.db
 
 # SayonLab internal notes (local-only, not part of the public repo)
 sayonlab/ARCHITECTURE.md
+
+# examples output
+examples/output/
