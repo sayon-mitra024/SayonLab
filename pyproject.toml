@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sayonlab"
+version = "0.1.0"
+description = "A scientific Python library for researchers."
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [
+  {name = "Sayon Mitra"}
+]
+
+dependencies = [
+  "numpy>=2.0",
+  "pandas>=2.0",
+  "matplotlib>=3.9",
+  "scipy>=1.13"
+]
