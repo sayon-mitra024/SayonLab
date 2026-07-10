@@ -113,7 +113,7 @@ visible, not because their files currently exist — see the
 SayonLab is published to PyPI:
 
 ```bash
-pip install sayonlab   # not yet available
+pip install sayonlab   
 ```
 
 ## Quick Start
