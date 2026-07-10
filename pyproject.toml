@@ -1,16 +1,37 @@
-[build-system]
-requires = ["setuptools>=68", "wheel"]
-build-backend = "setuptools.build_meta"
-
 [project]
 name = "sayonlab"
 version = "0.1.0"
-description = "A scientific Python library for researchers."
+description = "A Scientific Research Productivity Framework for Python."
 readme = "README.md"
 requires-python = ">=3.10"
-license = {file = "LICENSE"}
+license = { file = "LICENSE" }
+
 authors = [
-  {name = "Sayon Mitra",email = "sayonmitracode@gmail.com"}
+  { name = "Sayon Mitra", email = "sayonmitracode@gmail.com" }
+]
+
+keywords = [
+  "scientific-computing",
+  "research",
+  "visualization",
+  "matplotlib",
+  "science",
+  "python",
+  "publication",
+  "plots"
+]
+
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Intended Audience :: Science/Research",
+  "Intended Audience :: Developers",
+  "License :: OSI Approved :: Apache Software License",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Operating System :: OS Independent",
+  "Topic :: Scientific/Engineering",
+  "Topic :: Scientific/Engineering :: Visualization"
 ]
 
 dependencies = [
@@ -20,5 +41,20 @@ dependencies = [
   "scipy>=1.13"
 ]
 
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+include-package-data = true
+
 [tool.setuptools.packages.find]
 include = ["sayonlab*"]
+exclude = [
+    "assets*",
+    "docs*",
+    "examples*",
+    "tests*",
+    "dist*",
+    "build*"
+]
