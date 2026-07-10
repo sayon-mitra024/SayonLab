@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Logo placeholder: add assets/logo.png and update the line below when available -->
-<!-- <img src="assets/logo.png" alt="SayonLab logo" width="160"/> -->
+<img src="assets/logo.png" alt="SayonLab logo" width="160"/>
 
 # SayonLab
 
