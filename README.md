@@ -12,7 +12,7 @@ Reducing the engineering overhead of scientific research — one automated workf
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](pyproject.toml)
 ![CI](https://img.shields.io/badge/CI-coming%20soon-lightgrey.svg)
-![PyPI](https://img.shields.io/badge/PyPI-coming%20soon-lightgrey.svg)
+[![PyPI](https://img.shields.io/pypi/v/sayonlab)](https://pypi.org/project/sayonlab/)
 ![Docs](https://img.shields.io/badge/docs-coming%20soon-lightgrey.svg)
 
 </div>
