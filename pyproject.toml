@@ -8,9 +8,9 @@ version = "0.1.0"
 description = "A scientific Python library for researchers."
 readme = "README.md"
 requires-python = ">=3.10"
-license = {text = "MIT"}
+license = {file = "LICENSE"}
 authors = [
-  {name = "Sayon Mitra"}
+  {name = "Sayon Mitra",email = "sayonmitracode@gmail.com"}
 ]
 
 dependencies = [
