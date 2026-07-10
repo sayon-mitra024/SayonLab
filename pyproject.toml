@@ -19,3 +19,6 @@ dependencies = [
   "matplotlib>=3.9",
   "scipy>=1.13"
 ]
+
+[tool.setuptools.packages.find]
+include = ["sayonlab*"]
