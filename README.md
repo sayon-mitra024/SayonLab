@@ -229,9 +229,9 @@ SayonLab is licensed under the [Apache License 2.0](LICENSE).
 
 ## Citation
 
-If you use SayonLab in your research, please cite it using the metadata in
-[`CITATION.cff`](CITATION.cff). A DOI via Zenodo will be added once a
-public release is tagged.
+If you use SayonLab in academic research, please cite it using the metadata provided in [`CITATION.cff`](CITATION.cff).
+
+A DOI will be added in a future stable release to provide versioned, permanent software citations.
 
 ## Acknowledgements
 
