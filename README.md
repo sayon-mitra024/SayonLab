@@ -110,18 +110,7 @@ visible, not because their files currently exist — see the
 
 ## Installation
 
-SayonLab is not yet published to PyPI. For now, install directly from source:
-
-```bash
-git clone https://github.com/sayonmitra/SayonLab.git
-cd SayonLab
-pip install -e .
-```
-
-This installs SayonLab in editable mode, so changes to the source are
-picked up immediately without reinstalling.
-
-**Future (once released):**
+SayonLab is published to PyPI:
 
 ```bash
 pip install sayonlab   # not yet available
