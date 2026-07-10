@@ -1,0 +1,27 @@
+# This CITATION.cff file was generated for SayonLab.
+# Validate it anytime at https://citation-file-format.github.io/cff-initializer-javascript/
+cff-version: 1.2.0
+message: "If you use SayonLab in your research, please cite it as below."
+title: "SayonLab: A Scientific Research Productivity Framework"
+version: 0.1.0
+date-released: 2026-07-10
+authors:
+  - family-names: "Mitra"
+    given-names: "Sayon"
+license: Apache-2.0
+repository-code: "https://github.com/sayonmitra/SayonLab"
+url: "https://github.com/sayonmitra/SayonLab"
+abstract: >
+  SayonLab is an open-source scientific research productivity framework.
+  Version 0.1.0 provides a publication-ready plotting subsystem
+  (sayonlab.plots) that automates figure styling, multi-format export,
+  and confidence-interval visualization for researchers.
+keywords:
+  - scientific-computing
+  - research-software
+  - data-visualization
+  - reproducibility
+  - python
+# doi: 10.5281/zenodo.XXXXXXX
+# ^ Uncomment and fill in once a DOI is registered via Zenodo.
+# See: https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content
