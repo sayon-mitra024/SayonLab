@@ -219,11 +219,9 @@ correctness, and memory-safe figure handling.
 
 ## Contributing
 
-SayonLab is not yet accepting external contributions in a structured way —
-`CONTRIBUTING.md` and issue/PR templates will be added once the project
-reaches a stage where outside contributions make sense. If you're interested
-in the project's direction in the meantime, opening a GitHub issue to
-discuss is welcome.
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) for the current contribution policy and guidelines.
+
+At this stage, feedback, bug reports, documentation improvements, and feature suggestions are especially welcome.
 
 ## License
 
